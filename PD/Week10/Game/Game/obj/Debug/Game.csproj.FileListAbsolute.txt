@@ -1,0 +1,7 @@
+F:\2nd Semester\OOP\PD\Week10\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+F:\2nd Semester\OOP\PD\Week10\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+F:\2nd Semester\OOP\PD\Week10\Game\Game\bin\Debug\Game.exe.config
+F:\2nd Semester\OOP\PD\Week10\Game\Game\bin\Debug\Game.exe
+F:\2nd Semester\OOP\PD\Week10\Game\Game\bin\Debug\Game.pdb
+F:\2nd Semester\OOP\PD\Week10\Game\Game\obj\Debug\Game.exe
+F:\2nd Semester\OOP\PD\Week10\Game\Game\obj\Debug\Game.pdb
